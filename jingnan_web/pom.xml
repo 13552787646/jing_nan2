@@ -63,7 +63,7 @@
             <artifactId>httpclient</artifactId>
             <version>4.5.5</version>
         </dependency>
-        <!--<dependency>
+        <dependency>
             <groupId>com.github.wxpay</groupId>
             <artifactId>wxpay-sdk</artifactId>
             <version>3.0.9</version>
@@ -77,7 +77,7 @@
                     <artifactId>slf4j-api</artifactId>
                 </exclusion>
             </exclusions>
-        </dependency>-->
+        </dependency>
         <!--<dependency>
             <groupId>org.springframework.security.oauth</groupId>
             <artifactId>spring-security-oauth2</artifactId>
