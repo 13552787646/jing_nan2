@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: jingnan_web
+  profiles:
+    active: test
+# Actuator SpringBoot的生成级监控：200
